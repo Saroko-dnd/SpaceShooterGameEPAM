@@ -455,9 +455,9 @@ const SpaceShooterGame = function() {
         GamePublicParts.game.load.image(AssetNames.enemyThirdLevel, 'assets/img/ThirdEnemyShip.png');
         GamePublicParts.game.load.image(AssetNames.boss, 'assets/img/Boss.png');
         //Loading Bonus images
-        GamePublicParts.game.load.image(AssetNames.rapid, 'assets/img/Rapid.png');
+        GamePublicParts.game.load.image(AssetNames.rapid, 'assets/img/rapid.png');
         GamePublicParts.game.load.image(AssetNames.healthUp, 'assets/img/health.png');
-        GamePublicParts.game.load.image(AssetNames.blaster, 'assets/img/Blaster.png');
+        GamePublicParts.game.load.image(AssetNames.blaster, 'assets/img/blaster.png');
         GamePublicParts.game.load.image(AssetNames.bomb, 'assets/img/bomb.png');
         //Loading sprite animation
         GamePublicParts.game.load.spritesheet(AssetNames.explosion, 'assets/img/explosionAnimation.png', 256, 256);
